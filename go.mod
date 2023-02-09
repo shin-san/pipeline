@@ -7,7 +7,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.1.0
 	github.com/docker/cli v20.10.2+incompatible // indirect
 	github.com/docker/docker v20.10.2+incompatible // indirect
-	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/spec v0.20.2
 	github.com/google/go-cmp v0.5.6
