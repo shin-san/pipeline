@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.31.12 // indirect
 	github.com/cloudevents/sdk-go/v2 v2.1.0
 	github.com/docker/cli v20.10.2+incompatible // indirect
-	github.com/docker/docker v20.10.2+incompatible // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/spec v0.20.2
